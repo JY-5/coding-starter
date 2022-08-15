@@ -5,7 +5,7 @@
   width: 100%;
 }
 
-.inline {
+/* .inline {
   display: flex;
   column-gap: 6px;
 }
@@ -17,4 +17,13 @@
   row-gap: 16px;
   padding: 42px;
   width: 900px;
+} */
+
+.images {
+  display: flex;
+  width: 80%;
+}
+
+.image {
+  width: 200px;
 }
